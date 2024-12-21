@@ -1,4 +1,4 @@
-i# Prueba Técnica para Programador Junior - Python
+# Prueba Técnica para Programador Junior - Python
 
 **Duración total**: 30 minutos
 
